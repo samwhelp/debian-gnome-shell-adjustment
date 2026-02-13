@@ -5,10 +5,10 @@
 
 
 
-## Link
+## Subject
 
-* https://github.com/samwhelp/debian-gnome-shell-adjustment/blob/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh
-* https://raw.githubusercontent.com/samwhelp/debian-gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh
+* [Usage](#usage)
+* [Link](#link)
 
 
 
@@ -18,25 +18,33 @@
 > run
 
 ``` sh
-bash <(curl -L https://raw.githubusercontent.com/samwhelp/debian-gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh)
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh)
 ```
 
 > or run
 
 ``` sh
-bash <(wget -q https://raw.githubusercontent.com/samwhelp/debian-gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh -O - )
-```
-
-
-> or run
-
-``` sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/debian-gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh || wget -q https://raw.githubusercontent.com/samwhelp/debian-gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh -O - )"
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh -O - )
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/debian-gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/debian-gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh || wget -q https://raw.githubusercontent.com/samwhelp/gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh -O - )"
 ```
+
+
+> or run
+
+``` sh
+bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh)"
+```
+
+
+
+
+## Link
+
+* https://github.com/samwhelp/debian-gnome-shell-adjustment/blob/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh
+* https://raw.githubusercontent.com/samwhelp/debian-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh
