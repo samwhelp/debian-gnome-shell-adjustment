@@ -9,8 +9,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/debian-gnome-shell-adjustment/blob/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh
-## * https://raw.githubusercontent.com/samwhelp/debian-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh
+## * https://github.com/samwhelp/debian-gnome-shell-adjustment/blob/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh
+## * https://raw.githubusercontent.com/samwhelp/debian-gnome-shell-adjustment/refs/heads/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind/gnome-shell-keybind.sh
 ##
 
 
