@@ -32,7 +32,7 @@
 
 | Simple Script |
 | ------------- |
-| [debian-gnome-shell-adjustment](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
+| [gnome-shell-adjustment](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
 | [gnome-shell-layout-wincity](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-wincity) |
 | [gnome-shell-layout-maccity](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-maccity) |
 
