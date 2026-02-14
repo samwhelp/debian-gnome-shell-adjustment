@@ -31,7 +31,15 @@
 | ------ |
 | [Debian Gnome Shell Config](https://github.com/samwhelp/debian-gnome-shell-adjustment) |
 | [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
-| [gnome-shell-adjustment](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
+
+
+
+
+| Simple Script |
+| ------------- |
+| [debian-gnome-shell-adjustment](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
+| [gnome-shell-layout-wincity](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-wincity) |
+| [gnome-shell-layout-maccity](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-maccity) |
 
 
 
